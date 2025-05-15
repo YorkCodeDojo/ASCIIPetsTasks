@@ -1,6 +1,6 @@
 
 #Running
 ```
-swift run ASCIICat
+swift run ASCIIOwl
 
 ```
