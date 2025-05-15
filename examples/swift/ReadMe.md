@@ -1,0 +1,6 @@
+
+#Running
+```
+swift run ASCIIOwl
+
+```
